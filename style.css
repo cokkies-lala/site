@@ -17,6 +17,7 @@ body{
  
 header{
     padding-top: 40px;
+    padding-bottom: 30px;
     text-align: center;
     min-height: 150px;
     background-image: linear-gradient(to bottom, rgb(51, 167, 51),rgb(18, 60, 21));
